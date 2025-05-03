@@ -1,0 +1,16 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/stackcollapse-perf
+stackcollapse-perf.so
+stackcollapse-perf.dylib
+stackcollapse-perf.dll
+stackcollapse-perf.a
+stackcollapse-perf.lib
+stackcollapse-perf-test-*
+*.exe
+*.pdb
+*.o
+*.obj
+*.lst

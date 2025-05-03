@@ -1,0 +1,9 @@
+{
+	"authors": [
+		"Dmitry Olshansky"
+	],
+	"copyright": "Copyright © 2025, Dmitry Olshansky",
+	"description": "A faster stackcollapse for perf",
+	"license": "GPL-3.0-or-later",
+	"name": "stackcollapse-perf"
+}
